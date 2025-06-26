@@ -7,6 +7,9 @@ public class Main {
      * ChatGPT Lottery Filter Algorithm v1.0
      * By BARÓN RAFAEL & ChatGPT
      *
+     * https://x.com/BaronRRG
+     * https://www.youtube.com/@AtochaExplores
+     *
      * DISCLAIMER:
      * This algorithm does NOT predict lottery numbers.
      * It uses statistical filtering to reduce the total number of combinations
